@@ -6,7 +6,8 @@ import (
 	// aoc3 "example.com/Rucksack"
 	// aoc4 "example.com/CampCleanup"
 	// aoc5 "example.com/SupplyStacks"
-	aoc6 "example.com/TuningTrouble"
+	// aoc6 "example.com/TuningTrouble"
+	aoc7 "example.com/NoSpaceLeftOnDevice"
 )
 
 func main() {
@@ -15,5 +16,6 @@ func main() {
 	// aoc3.Rucksack()
 	// aoc4.CampCleanup()
 	// aoc5.SupplyStacks()
-	aoc6.TuningTrouble()
+	// aoc6.TuningTrouble()
+	aoc7.NoSpaceLeftOnDevice()
 }
