@@ -7,7 +7,8 @@ import (
 	// aoc4 "example.com/CampCleanup"
 	// aoc5 "example.com/SupplyStacks"
 	// aoc6 "example.com/TuningTrouble"
-	aoc7 "example.com/NoSpaceLeftOnDevice"
+	// aoc7 "example.com/NoSpaceLeftOnDevice"
+	aoc8 "example.com/TreetopTreeHouse"
 )
 
 func main() {
@@ -17,5 +18,6 @@ func main() {
 	// aoc4.CampCleanup()
 	// aoc5.SupplyStacks()
 	// aoc6.TuningTrouble()
-	aoc7.NoSpaceLeftOnDevice()
+	// aoc7.NoSpaceLeftOnDevice()
+	aoc8.TreetopTreeHouse()
 }
